@@ -5,6 +5,7 @@ Le but de ce projet est de créer un moteur graphique, via la technique du Ray-C
 
 ## Pré-requis
 Le projet est réalisé avec la SDL2, il est donc nécessaire de l'installer pour exécuter le projet.
+- [sdl2](https://www.libsdl.org/download-2.0.php)
 
 ## Compilation
 ```
